@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top, .next{
+    background-color: rgb(18,18,18);
+}
+svg path{
+    fill: white;
+}
+.btn1{
+    background-color: rgb(35,35,35)
+}
